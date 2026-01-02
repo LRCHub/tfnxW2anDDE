@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Seven Nation Army",
+  "base_artist": "The White Stripes",
+  "createdAt": "2026-01-02T23:53:05.935257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Haley Reinhart",
+      "has_synced": true,
+      "path": "select/01_Seven_Nation_Army_Scott_Bradlee's_Postmodern_Jukebox_feat._Haley_Reinhart.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/02_Seven_Nation_Army_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/03_Seven_Nation_Army_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/04_Seven_Nation_Army_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/05_Seven_Nation_Army_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seven Nation Army (Live)",
+      "artist": "The White Stripes",
+      "has_synced": false,
+      "path": "select/06_Seven_Nation_Army_(Live)_The_White_Stripes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "SKÁLD",
+      "has_synced": true,
+      "path": "select/07_Seven_Nation_Army_SKÁLD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seven Nation Army - The Glitch Mob Remix",
+      "artist": "The White Stripes feat. The Glitch Mob",
+      "has_synced": true,
+      "path": "select/08_Seven_Nation_Army_-_The_Glitch_Mob_Remix_The_White_Stripes_feat._The_Glitch_Mob.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seven Nation Army (Glitch Mob Remix)",
+      "artist": "The White Stripes/Glitch Mob",
+      "has_synced": true,
+      "path": "select/09_Seven_Nation_Army_(Glitch_Mob_Remix)_The_White_Stripes_Glitch_Mob.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/10_Seven_Nation_Army_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "Marcus Collins",
+      "has_synced": true,
+      "path": "select/11_Seven_Nation_Army_Marcus_Collins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/12_Seven_Nation_Army_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "0937 - The White Stripes - Seven Nation Army",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/13_0937_-_The_White_Stripes_-_Seven_Nation_Army_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Seven Nation Army (Explicit)",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/14_Seven_Nation_Army_(Explicit)_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seven Nation Army",
+      "artist": "Future Royalty",
+      "has_synced": false,
+      "path": "select/15_Seven_Nation_Army_Future_Royalty.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "has_synced": false,
+      "path": "select/pl_01_Seven_Nation_Army_The_White_Stripes.txt"
+    }
+  ]
+}
